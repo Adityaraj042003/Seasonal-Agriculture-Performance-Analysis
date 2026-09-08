@@ -499,8 +499,7 @@ An interactive dashboard can be developed using:
 Aditya Raj
 
 Computer Science & Engineering Student
-GitHub: 
- 
+Email - bhardwajaditya2536@gmail.com
 ⭐ Project
 Seasonal Agriculture Performance Analysis
 Turning agricultural data into meaningful insights for better seasonal planning, resource management, and sustainable farming.
