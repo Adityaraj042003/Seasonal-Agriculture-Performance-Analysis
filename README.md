@@ -415,7 +415,7 @@ GitHub	Version control and project hosting
  
 ▶️ How to Run the Project
 1. Clone the Repository
-git clone https://github.com/aditiyes/Seasonal-Agriculture-Performance-Analysis.git
+
 
 2. Navigate to the Project
 cd Seasonal-Agriculture-Performance-Analysis
